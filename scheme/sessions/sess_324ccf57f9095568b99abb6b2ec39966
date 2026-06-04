@@ -1,0 +1,1 @@
+csrf_token|s:64:"7e0ad9b4879224f897147c6c90e5b9b932dc40a552074a486afd184785ff5da6";user|a:7:{s:6:"userID";i:2;s:8:"Username";s:5:"admin";s:5:"Email";s:15:"admin@gmail.com";s:8:"Password";s:8:"admin123";s:4:"Role";s:5:"admin";s:6:"Status";s:8:"accepted";s:8:"CreateAt";s:19:"2026-04-09 17:58:48";}
